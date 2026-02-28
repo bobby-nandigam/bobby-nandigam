@@ -98,17 +98,13 @@ CGPA: **8.5 / 10**
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobby-nandigam&show_icons=true&theme=default)
-
----
 
 ## 📫 Connect With Me
 
 📧 Email: bobbynandigam.official@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/bobby-nandigam  
-🧠 LeetCode: https://leetcode.com/bobby-nandigam  
+🧠 LeetCode: https://leetcode.com/u/bobby-nandigam  
 🐙 GitHub: https://github.com/bobby-nandigam  
 
 ---
