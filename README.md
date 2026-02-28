@@ -104,7 +104,7 @@ CGPA: **8.5 / 10**
 
 📧 Email: bobbynandigam.official@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/bobby-nandigam  
-🧠 LeetCode: https://leetcode.com/u/bobby-nandigam  
+🧠 LeetCode: https://leetcode.com/u/bobby_nandigam  
 🐙 GitHub: https://github.com/bobby-nandigam  
 
 ---
