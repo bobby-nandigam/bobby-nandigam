@@ -18,7 +18,7 @@
 
 ## About Me
 
-Software Engineer with 1+ year of industry experience building **scalable backend APIs**, **ML-integrated services**, and **cloud-native systems**. Strong foundation across the full engineering stack — from system design and database optimization to model deployment and multi-tenant security. Focused on writing production-grade code that performs reliably at scale.
+Software Engineer with 2+ year of industry experience building **scalable backend APIs**, **ML-integrated services**, and **cloud-native systems**. Strong foundation across the full engineering stack — from system design and database optimization to model deployment and multi-tenant security. Focused on writing production-grade code that performs reliably at scale.
 
 > Currently open to Backend, ML Engineering, and Platform Engineering roles.
 
@@ -80,7 +80,7 @@ Software Engineer with 1+ year of industry experience building **scalable backen
 ## Professional Experience
 
 ### Software Engineer — BillionBright Solutions LLP
-`Sep 2024 – Jan 2026` · Nellore, India
+`Sep 2024 – May 2026` · Nellore, India
 
 | Metric | Result |
 |--------|--------|
